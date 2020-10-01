@@ -19,7 +19,7 @@ To test locally, run the following in your terminal:
 
 First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
 
-#### Options/configuration
+#### Options/Array
 
 Most of the basic customization will take place in the `/_data/*.yml` files.
 
